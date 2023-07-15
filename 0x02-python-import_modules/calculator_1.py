@@ -7,7 +7,7 @@ def add(a, b):
         b: second integer
 
     Returns:
-        The return value. a + b
+    The return value. a + b
     """
     return (a + b)
 
@@ -20,7 +20,7 @@ def sub(a, b):
         b: second integer
 
     Returns:
-        The return value. a - b
+    The return value. a - b
     """
     return (a - b)
 
@@ -33,7 +33,7 @@ def mul(a, b):
         b: second integer
 
     Returns:
-        The return value. a * b
+    The return value. a * b
     """
     return (a * b)
 
@@ -46,6 +46,6 @@ def div(a, b):
         b: second integer
 
     Returns:
-        The return value. a / b
+    The return value. a / b
     """
     return int(a / b)
